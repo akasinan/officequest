@@ -5,6 +5,7 @@ The game is a really basic point n click adventure game where you play as Joe,
 a guy who is trapped inside of his locked office and needs to complete a puzzle to get out
 
 SETUP INSTRUCTIONS
+
 To setup the game, the player needs the files in the repository of the files that can be found at this link:
 https://mega.nz/#!aahEDKBb!24lGTdLGcAhB9TIeMZKFphNgkdaDfNcxSUzAP2Fyyq4
 
