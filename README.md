@@ -14,3 +14,7 @@ When the game is running position the game screen with the Processing Console vi
 and flavor text will be displayed on it.
 
 You are now playing Office Quest!
+
+PS: VOLUME WARNING.
+While most of the game is silent, there is a win sound effect that might catch you offguard if you aren't expecting it
+You have been warned.
